@@ -1,7 +1,7 @@
 # Tunes-Rank-Management
 # The Skript for Tunes ranks
 
-# Please do not claim this as your own
+Please do not claim this as your own
 
 command /rank [<offline player>] [<text>]: # main command
 	trigger:
